@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Триумфальная арка",
+    "img": "https://knigaza.com/upload/images/200x350/252247_1.jpg",
+    "author": "Эрих Мария Ремарк"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "img": "https://knigaza.com/upload/images/200x350/268273_1.jpg",
+    "author": "Джордж Оруэлл"
+  },
+  {
+    "id": 3,
+    "title": "Над кукушкиным гнездом",
+    "img": "https://knigaza.com/upload/images/200x350/269424_1.jpg",
+    "author": "Кен Кизи"
+  },
+  {
+    "id": 4,
+    "title": "Дом, в котором...",
+    "img": "https://knigaza.com/upload/images/200x350/3091_1.jpg",
+    "author": "Мариам Петросян"
+  }
+]
